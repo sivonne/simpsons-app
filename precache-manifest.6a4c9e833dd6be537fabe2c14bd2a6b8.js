@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/simpsons-app/static/js/runtime~main.27324021.js"
   },
   {
-    "revision": "c71bd146a043582c2c0d",
-    "url": "/simpsons-app/static/js/main.777e6a60.chunk.js"
+    "revision": "3133a8459ab2606bd5ba",
+    "url": "/simpsons-app/static/js/main.d29a9ca2.chunk.js"
   },
   {
     "revision": "b712e9dbf422767349e0",
     "url": "/simpsons-app/static/js/2.6e310887.chunk.js"
   },
   {
-    "revision": "c71bd146a043582c2c0d",
-    "url": "/simpsons-app/static/css/main.bc8f2685.chunk.css"
+    "revision": "3133a8459ab2606bd5ba",
+    "url": "/simpsons-app/static/css/main.fac63c81.chunk.css"
   },
   {
-    "revision": "976cfac87dd31a28ca8134f0855ddf3a",
+    "revision": "212fb111020f5c373d1d6689dfd5cb48",
     "url": "/simpsons-app/index.html"
   }
 ];
