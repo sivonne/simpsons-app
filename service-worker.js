@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/simpsons-app/precache-manifest.6a4c9e833dd6be537fabe2c14bd2a6b8.js"
+  "/simpsons-app/precache-manifest.62ee6bdc05ebbb10f0610bdabc44d5eb.js"
 );
 
 workbox.clientsClaim();

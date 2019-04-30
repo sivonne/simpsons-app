@@ -1,13 +1,13 @@
 {
-  "main.css": "/simpsons-app/static/css/main.fac63c81.chunk.css",
-  "main.js": "/simpsons-app/static/js/main.d29a9ca2.chunk.js",
-  "main.js.map": "/simpsons-app/static/js/main.d29a9ca2.chunk.js.map",
+  "main.css": "/simpsons-app/static/css/main.fd133e19.chunk.css",
+  "main.js": "/simpsons-app/static/js/main.566baf0d.chunk.js",
+  "main.js.map": "/simpsons-app/static/js/main.566baf0d.chunk.js.map",
   "runtime~main.js": "/simpsons-app/static/js/runtime~main.27324021.js",
   "runtime~main.js.map": "/simpsons-app/static/js/runtime~main.27324021.js.map",
   "static/js/2.6e310887.chunk.js": "/simpsons-app/static/js/2.6e310887.chunk.js",
   "static/js/2.6e310887.chunk.js.map": "/simpsons-app/static/js/2.6e310887.chunk.js.map",
   "index.html": "/simpsons-app/index.html",
-  "precache-manifest.6a4c9e833dd6be537fabe2c14bd2a6b8.js": "/simpsons-app/precache-manifest.6a4c9e833dd6be537fabe2c14bd2a6b8.js",
+  "precache-manifest.62ee6bdc05ebbb10f0610bdabc44d5eb.js": "/simpsons-app/precache-manifest.62ee6bdc05ebbb10f0610bdabc44d5eb.js",
   "service-worker.js": "/simpsons-app/service-worker.js",
-  "static/css/main.fac63c81.chunk.css.map": "/simpsons-app/static/css/main.fac63c81.chunk.css.map"
+  "static/css/main.fd133e19.chunk.css.map": "/simpsons-app/static/css/main.fd133e19.chunk.css.map"
 }
